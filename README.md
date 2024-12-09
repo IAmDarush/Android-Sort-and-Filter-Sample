@@ -1,4 +1,4 @@
-# Rest-Countries-Sample
+# Android Sort and Filter Example
 
 This sample showcases a list of countries using the https://restcountries.com/ API. 
 
